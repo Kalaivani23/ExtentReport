@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44505" started-at="2019-11-28T17:07:26Z" finished-at="2019-11-28T17:08:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44505" started-at="2019-11-28T17:07:26Z" finished-at="2019-11-28T17:08:11Z">
+      <class name="com.resources.ExtentReportCode">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.resources.ExtentReportCode@5442a311]" name="startTest" is-config="true" duration-ms="287" started-at="2019-11-28T17:07:26Z" finished-at="2019-11-28T17:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="atest()[pri:0, instance:com.resources.ExtentReportCode@5442a311]" name="atest" duration-ms="12438" started-at="2019-11-28T17:07:26Z" finished-at="2019-11-28T17:07:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+        <test-method status="PASS" signature="btest()[pri:0, instance:com.resources.ExtentReportCode@5442a311]" name="btest" duration-ms="30257" started-at="2019-11-28T17:07:39Z" finished-at="2019-11-28T17:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.resources.ExtentReportCode@5442a311]" name="close" is-config="true" duration-ms="1488" started-at="2019-11-28T17:08:09Z" finished-at="2019-11-28T17:08:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.resources.ExtentReportCode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
